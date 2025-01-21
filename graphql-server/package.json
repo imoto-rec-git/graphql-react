@@ -7,5 +7,11 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.9",
+    "ts-loader": "^9.5.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
 }
